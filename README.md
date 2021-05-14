@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tanay Khandelwal
+- 👀 I’m interested in ...
+- 🌱 I’m currently a freshman studying Computer Science at the University of Melbourne
+- 📫 How to reach me: tanaykhandelwal8@gmail.com
