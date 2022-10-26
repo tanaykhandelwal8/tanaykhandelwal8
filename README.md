@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Tanay Khandelwal
-- 🌱 I’m currently a 2nd year student majoring in Computer Science at The University of Melbourne
+- 🌱 I’m currently a 3rd year student majoring in Computer Science at The University of Melbourne
 - 📫 How to reach me: tanaykhandelwal8@gmail.com
