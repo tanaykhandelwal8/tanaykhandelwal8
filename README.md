@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Tanay Khandelwal
-- 🌱 I’m currently a 3rd year student majoring in Computer Science at The University of Melbourne
-- 📫 How to reach me: tanaykhandelwal8@gmail.com
+- 📫 How to reach me: tanaykhandelwal8[at]gmail.com
